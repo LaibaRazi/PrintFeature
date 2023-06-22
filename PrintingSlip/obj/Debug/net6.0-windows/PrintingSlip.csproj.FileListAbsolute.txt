@@ -1,0 +1,17 @@
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\bin\Debug\net6.0-windows\PrintingSlip.exe
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\bin\Debug\net6.0-windows\PrintingSlip.deps.json
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\bin\Debug\net6.0-windows\PrintingSlip.runtimeconfig.json
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\bin\Debug\net6.0-windows\PrintingSlip.dll
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\bin\Debug\net6.0-windows\PrintingSlip.pdb
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\PrintingSlip.csproj.AssemblyReference.cache
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\PrintingSlip.Form1.resources
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\PrintingSlip.csproj.GenerateResource.cache
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\PrintingSlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\PrintingSlip.AssemblyInfoInputs.cache
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\PrintingSlip.AssemblyInfo.cs
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\PrintingSlip.csproj.CoreCompileInputs.cache
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\PrintingSlip.dll
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\refint\PrintingSlip.dll
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\PrintingSlip.pdb
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\PrintingSlip.genruntimeconfig.cache
+C:\Users\khanl\source\repos\PrintingSlip\PrintingSlip\obj\Debug\net6.0-windows\ref\PrintingSlip.dll
